@@ -2,4 +2,5 @@ P1
 Practica de git
 Mi nombre es oscar
 22 anios
-
+de ecuador para todo el mundo
+hablamremos de mi historia
